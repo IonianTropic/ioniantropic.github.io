@@ -5,7 +5,7 @@ use yew::prelude::*;
 pub fn app() -> Html {
     html! {
         <main>
-            <h1>{ "Hello World!" }</h1>
+            <h1>{ "Hello Sam!" }</h1>
         </main>
     }
 }
